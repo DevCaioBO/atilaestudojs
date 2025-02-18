@@ -1,0 +1,20 @@
+// exemplo1 - objeto
+
+// const produtos = {
+//     produto1: {
+//         nome: "Camiseta",
+//         preco : 25,
+//         disponivel: true, 
+//     },
+//     produto2: {
+//         nome: "Calça",
+//         preco : 60,
+//         disponivel: false, 
+//     },
+//     produto3: {
+//         nome: "Tênis",
+//         preco : 100,
+//         disponivel: true 
+//     },
+    
+// }

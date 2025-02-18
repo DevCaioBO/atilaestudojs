@@ -1,0 +1,16 @@
+#myDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20vw;
+    height: 20vh;
+    border-radius: 100%;
+    padding: 5px;
+    transition: all ease-in-out;
+    cursor: pointer;
+    background-color: gray;
+    color: aqua;
+    box-shadow: 0 2px 3px #09c66b;
+}
+
+
